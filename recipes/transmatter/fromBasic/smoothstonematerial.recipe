@@ -1,0 +1,10 @@
+{
+  "input" : [
+	{ "item" : "basicmatterblock", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "smoothstonematerial",
+    "count" : 1
+  },
+  "groups" : [ "transmatter", "fromBasic", "all" ]
+}

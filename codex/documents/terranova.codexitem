@@ -1,0 +1,9 @@
+{
+  "codexId" : "terranova",
+  "title" : "Terra Nova",
+  "codexkind" : "codex",
+  "itemName" : "terranovaCodex",
+  "rarity" : "common",
+  "description" : "Terran first, and main capital world.",
+  "shortdescription" : "Terran Nova"
+}

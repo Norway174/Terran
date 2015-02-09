@@ -1,0 +1,58 @@
+{
+  "commandName" : "selectShip",
+  "onlyOnce" : true,
+  "icon" : "dreadwingicon.png",
+  "actions" : [
+    { 
+      "action" : "DisableCommand",
+      "command" : "selectShip"
+    },
+	{ 
+      "action" : "DisableCommand",
+      "command" : "upgradeShip1"
+    },
+	{ 
+      "action" : "EnableCommand",
+      "command" : "selectShip1"
+    },
+    { 
+      "action" : "EnableCommand",
+      "command" : "selectShip2"
+    },
+	{ 
+      "action" : "EnableCommand",
+      "command" : "selectShip3"
+    },
+	{ 
+      "action" : "EnableCommand",
+      "command" : "selectShip4"
+    }
+  ],
+
+  "speciesText" : {
+    "terran" : {
+      "buttonText" : "Select Ship",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Select wisely. Once you select a ship. You can never return. Or change your ship again.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^green;Select a ship to the left.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^red;ERROR",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

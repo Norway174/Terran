@@ -1,0 +1,49 @@
+{
+  "commandName" : "terranEnablePropulsion",
+  "onlyOnce" : true,
+  "icon" : "thrusters.png",
+  "actions" : [
+    { 
+      "action" : "DisableCommand",
+      "command" : "terranEnablePropulsion"
+    },
+    { 
+      "action" : "upgradeShip",
+      "shipParameters" : { 
+      "capabilities" : [ "planetTravel" ] 
+      }
+    },
+    { 
+      "action" : "PlaySound",
+      "sound" : "/sfx/interface/ship_confirm1.wav",
+      "loops" : 0
+    }
+  ],
+
+  "speciesText" : {
+    "terran" : {
+      "buttonText" : "Enable Propulsion",
+			"selectSpeech" : [
+				{
+					"animation" : "talk",
+					"text" : "Propulsion sub-system: ^red;OFFLINE",
+					"speedModifier" : 1.0
+				}
+			],
+			"successSpeech" : [
+				{
+					"animation" : "unique",
+					"text" : "Propulsion sub-system: ^green;ONLINE",
+					"speedModifier" : 1.0
+				}
+			],
+			"failSpeech" : [
+				{
+					"animation" : "refuse",
+					"text" : "Propulsion sub-system: ^red;ERROR",
+					"speedModifier" : 1.0
+				}
+			]
+    }
+  }
+}

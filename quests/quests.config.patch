@@ -1,0 +1,3 @@
+[
+{"op" : "add", "path": "/initialquests/terran", "value": [ "terrantutorial.gearup" ] }
+]

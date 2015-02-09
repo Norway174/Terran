@@ -1,0 +1,50 @@
+{
+  "objectName" : "terranhdtv",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 2000,
+
+  "description" : "Terran Command on Stand-by.",
+  "shortdescription" : "TERRAN COMMAND HDTV",
+  "race" : "terran",
+
+  "apexDescription" : "we have a HD TV similar to that.",
+  "avianDescription" : "That is Terran Command..",
+  "floranDescription" : "Floranssss not impressssed.",
+  "glitchDescription" : "Impressed. Look at that HD quality.",
+  "humanDescription" : "Looks like Terran Command.",
+  "hylotlDescription" : "Is this the Terrans that left Earth?",
+  "terranDescription" : "Maybe I can use it to call home?",
+
+  "lightColor" : [28, 181, 238],
+  "flickerDistance" : 0.2,
+  "flickerStrength" : 0.05,
+  "flickerTiming" : 4,
+
+  "inventoryIcon" : "terranhdtvicon.png",
+  "orientations" : [
+    {
+      "image" : "terranhdtv.png:default.<frame>",
+      "imagePosition" : [-40, -24],
+      "frames" : 15,
+      "animationCycle" : 1.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ],
+
+  "scripts" : [ "/objects/terran/terranhdtv/terranhdtv.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/terran/terranhdtv/terranhdtv.animation",
+
+  "animationParts" : {
+    "hdtv" : "terranhdtv.png"
+  },
+  "animationPosition" : [-40, -24],
+
+  "inboundNodes" : [ [ 0, 0 ] ]
+
+}

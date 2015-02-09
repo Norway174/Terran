@@ -1,0 +1,45 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "hdtvState" : {
+        "default" : "default",
+        "states" : {
+          "default" : {
+            "frames" : 15,
+            "cycle" : 1.5,
+            "mode" : "loop"
+          },
+          "online" : {
+            "frames" : 15,
+            "cycle" : 3.0,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "hdtv" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "hdtvState" : {
+            "default" : {
+              "properties" : {
+                "image" : "<partImage>:default.<frame>"
+              }
+            },
+
+            "online" : {
+              "properties" : {
+                "image" : "<partImage>:online.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

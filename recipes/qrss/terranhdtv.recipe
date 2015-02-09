@@ -1,0 +1,10 @@
+{
+  "input" : [
+
+  ],
+  "output" : {
+    "item" : "terranhdtv",
+    "count" : 1
+  },
+  "groups" : [ "qrss", "wire", "all" ]
+}

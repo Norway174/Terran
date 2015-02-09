@@ -1,0 +1,9 @@
+{
+  "codexId" : "terranorigins",
+  "title" : "Terran Origins",
+  "codexkind" : "codex",
+  "itemName" : "terranoriginsCodex",
+  "rarity" : "common",
+  "description" : "Origin Of The Terran race.",
+  "shortdescription" : "Terran Origins"
+}

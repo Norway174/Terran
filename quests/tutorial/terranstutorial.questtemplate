@@ -1,0 +1,19 @@
+{
+  "id" : "terrantutorial.gearup",
+  "title" : "^#9be3d6;TERRAN COMMAND: Captains Log, entry #1",
+  "text" : "^green;Terran Command^white; has tasked me to explore and seek out brave new worlds. I'm now on a small Terran Outpost to ^green;requisition my ship^white;. I have free range between 8 classes. ^yellow;Head to the AI to get started^white;.",
+  "completionText" : "^green;Terran Command^white; has tasked me to explore and seek out brave new worlds. I'm now on a small Terran Outpost to ^green;requisition my ship^white;. I have free range between 8 classes. ^yellow;Head to the AI to get started^white;.",
+  "conditions" : [
+    
+  ],
+  "moneyRange" : [500, 500],
+  "planetMode" : "none",
+  "followUp" : "",
+  "questDungeons" : [ ],
+  "canBeAbandoned" : false,
+  
+  "disableAiCommands" : ["upgradeShip1", "upgradeShip2", "upgradeShip3", "upgradeShip4", "upgradeShip5", "upgradeShip6", "upgradeShip7", "upgradeShip8" ],
+  
+  "enableAiCommands" : ["selectShip"]
+  
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "basicmatterblock",
+  "rarity" : "Common",
+  "inventoryIcon" : "basicmatterblock.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "Terran use this for Trans-Matter. Basic items into another!",
+  "shortdescription" : "Basic Matter Block",
+  "glitchdescription" : "Statement. A basic matter block.",
+  "florandescription" : "Basic Matter block!",
+  "terrandescription" : "Let's make some new building blocks!",
+
+  "materialId" : 174
+}

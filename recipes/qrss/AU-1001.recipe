@@ -1,0 +1,10 @@
+{
+  "input" : [
+
+  ],
+  "output" : {
+    "item" : "AU-1001",
+    "count" : 1
+  },
+  "groups" : [ "qrss", "objects", "all" ]
+}

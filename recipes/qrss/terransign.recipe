@@ -1,0 +1,10 @@
+{
+  "input" : [
+
+  ],
+  "output" : {
+    "item" : "terransign",
+    "count" : 1
+  },
+  "groups" : [ "qrss", "objects", "all" ]
+}

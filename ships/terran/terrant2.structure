@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel"],
+      "maxFuel" : 1000
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "terranT2.png",
+      "position" : [9, 12],
+      "fullbright" : true
+    },
+    {
+      "image" : "terranT2lit.png",
+      "position" : [9, 12]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "terranT2blocks.png"
+}

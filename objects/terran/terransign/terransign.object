@@ -1,0 +1,32 @@
+{
+  "objectName" : "terransign",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 350,
+
+  "description" : "Terran Command exploring brave new worlds for the Terran faction.",
+  "shortdescription" : "Terran Command",
+  "race" : "terran",
+
+  "apexDescription" : "A sign promoting Terran Command, the Terrans military.",
+  "avianDescription" : "This area clearly has a Terran military presence.",
+  "floranDescription" : "Floran ssstab sssilly Terran with sssilly gun.",
+  "glitchDescription" : "Thoughtful. Terran military tactics involve a lot of bravado.",
+  "humanDescription" : "I hear Terran Command is still recruiting.",
+  "hylotlDescription" : "The Terran military certainly like to make their presence felt.",
+  "terranDescription" : "A little piece of home.",
+
+  "inventoryIcon" : "terransignicon.png",
+  "orientations" : [
+    {
+      "image" : "terransign.png:<color>",
+      "imagePosition" : [-32, -8],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

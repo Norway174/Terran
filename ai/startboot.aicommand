@@ -1,0 +1,66 @@
+{
+  "commandName" : "startBoot",
+  "onlyOnce" : true,
+  "icon" : "dreadwingicon.png",
+  "actions" : [
+    { 
+      "action" : "DisableCommand",
+      "command" : "startBoot"
+    },
+	{ 
+      "action" : "EnableCommand",
+      "command" : "terranGiveBeamaxe"
+    },
+	{ 
+      "action" : "EnableCommand",
+      "command" : "terranEnablePropulsion"
+    },
+	{ 
+      "action" : "EnableCommand",
+      "command" : "terranEnableFTL"
+    },
+	{ 
+      "action" : "EnableCommand",
+      "command" : "terranEnableTeleporter"
+    },
+	{ 
+      "action" : "EnableCommand",
+      "command" : "givePainttool"
+    },
+	{ 
+      "action" : "EnableCommand",
+      "command" : "giveWiretool"
+    },
+	{ 
+      "action" : "EnableCommand",
+      "command" : "terranEnableTech"
+    }
+  ],
+
+  "speciesText" : {
+    "terran" : {
+      "buttonText" : "Initialize ship",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Ship Status: ^red;OFFLINE",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Ship Status: ^orange;In-progress",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Ship Status: ^red;ERROR",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

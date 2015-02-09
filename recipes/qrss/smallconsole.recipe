@@ -1,0 +1,10 @@
+{
+  "input" : [
+
+  ],
+  "output" : {
+    "item" : "smallconsole",
+    "count" : 1
+  },
+  "groups" : [ "qrss", "wire", "all" ]
+}

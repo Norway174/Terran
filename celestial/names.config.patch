@@ -1,0 +1,9 @@
+[
+{ "op" : "add", "path" : "/systemNames/-", "value" : [ 1.0, "Terran" ] },
+{ "op" : "add", "path" : "/systemNames/-", "value" : [ 1.0, "Terra" ] },
+{ "op" : "add", "path" : "/systemNames/-", "value" : [ 1.0, "Davis" ] },
+{ "op" : "add", "path" : "/systemNames/-", "value" : [ 1.0, "Norway174" ] },
+{ "op" : "add", "path" : "/systemNames/-", "value" : [ 1.0, "One Seven Four" ] },
+
+{ "op" : "add", "path" : "/systemSuffixNames/-", "value" : [ 1.0, "Terran" ] }
+]

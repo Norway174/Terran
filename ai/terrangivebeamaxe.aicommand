@@ -1,0 +1,51 @@
+{
+  "commandName" : "terranGiveBeamaxe",
+  "onlyOnce" : true,
+  "icon" : "beamaxe.png",
+  "actions" : [
+     { 
+      "action" : "GivePlayerItems",
+      "items" : [ "beamaxe", 1],
+      "essentialItem" : "beamaxe"
+    },       
+    { 
+      "action" : "PlayCinematic",
+      "cinematicConfig" : "/cinematics/beamaxe.cinematic"
+    },
+    { 
+      "action" : "DisableCommand",
+      "command" : "terranGiveBeamaxe"
+    },
+	{ 
+      "action" : "EnableCommand",
+      "command" : "upgradeBeamaxe1"
+    }
+  ],
+
+  "speciesText" : {
+    "terran" : {
+      "buttonText" : "Enable Matter Manipulator",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The matter manipulator Status: ^red;OFFLINE",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The matter manipulator Status: ^green;ONLINE",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The matter manipulator Status: ^red;ERROR",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

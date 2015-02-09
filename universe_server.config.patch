@@ -1,0 +1,17 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/terran",
+		"value" : [
+			"/ships/terran/terranstation.structure",
+			"/ships/terran/terranstation.structure",
+			"/ships/terran/terranstation.structure",
+			"/ships/terran/terranstation.structure",
+			"/ships/terran/terranstation.structure",
+			"/ships/terran/terranstation.structure",
+			"/ships/terran/terranapexT8.structure",
+			"/ships/terran/terranflorant8.structure",
+			"/ships/terran/terranglitcht8.structure",
+			"/ships/terran/terranhylotlT8.structure"
+		]
+	}
+]

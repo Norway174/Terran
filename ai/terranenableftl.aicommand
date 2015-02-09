@@ -1,0 +1,49 @@
+{
+  "commandName" : "terranEnableFTL",
+  "onlyOnce" : true,
+  "icon" : "thrusters.png",
+  "actions" : [
+    { 
+      "action" : "DisableCommand",
+      "command" : "terranEnableFTL"
+    },
+    { 
+      "action" : "upgradeShip",
+      "shipParameters" : { 
+      "capabilities" : [ "systemTravel" ] 
+      }
+    },
+    { 
+      "action" : "PlaySound",
+      "sound" : "/sfx/interface/ship_confirm1.wav",
+      "loops" : 0
+    }
+  ],
+
+  "speciesText" : {
+    "terran" : {
+      "buttonText" : "Enable FTL-Drive",
+			"selectSpeech" : [
+				{
+					"animation" : "talk",
+					"text" : "FTL-Drive sub-system: ^red;OFFLINE",
+					"speedModifier" : 1.0
+				}
+			],
+			"successSpeech" : [
+				{
+					"animation" : "unique",
+					"text" : "FTL-Drive sub-system: ^green;ONLINE",
+					"speedModifier" : 1.0
+				}
+			],
+			"failSpeech" : [
+				{
+					"animation" : "refuse",
+					"text" : "FTL-Drive sub-system: ^red;ERROR",
+					"speedModifier" : 1.0
+				}
+			]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "itemName" : "x3railgun",
+  "inventoryIcon" : "x3railgunicon.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Terran X-3 Prototype Railgun. How did I even get this!?",
+  "shortdescription" : "X-3 Railgun Prototype",
+  "image" : "x3railgun.png",
+  "handPosition" : [-7, -3],
+  "firePosition" : [20, 1.5],
+  "level" : 1,
+  "fireTime" : 0.65,
+  "twoHanded" : true,
+
+  "fireOnRelease" : true,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "x3rail",
+  "projectile" : { 
+    "speed" : 500,
+    "power" : 12,
+    "color" : [10, 255, 10]
+  },
+
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/plasma_sniper3.wav" } ]
+  }
+}

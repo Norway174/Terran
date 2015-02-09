@@ -1,0 +1,13 @@
+{
+  "itemName" : "mre",
+  "rarity" : "Common",
+  "inventoryIcon" : "mre.png",
+  "description" : "Meal ready to eat. Mmm... Smells delicious.",
+  "shortdescription" : "MRE",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 70
+      }
+    ] ]
+}

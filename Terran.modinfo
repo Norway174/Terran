@@ -1,0 +1,11 @@
+{
+  "name" : "Terran",
+  "version" : "Stable v. Upbeat Giraffe",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "author" : "Norway174",
+    "version" : "0.9.1",
+    "description" : "A human race that left Earth long ago, to explore and colonise the galaxy."
+  }
+}

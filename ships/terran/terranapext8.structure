@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "maxFuel" : 1000
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "terranapexT8.png",
+      "position" : [5.875, 13.5],
+      "fullbright" : true
+    },
+    {
+      "image" : "terranapexT8lit.png",
+      "position" : [5.875, 13.5]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "terranapexT8blocks.png"
+}

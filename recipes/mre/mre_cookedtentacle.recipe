@@ -1,0 +1,11 @@
+{
+  "input" : [
+	{ "item" : "cookedtentacle", "count" : 1 },
+	{ "item" : "fabric", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "mre",
+    "count" : 1
+  },
+  "groups" : [ "plain", "consumables", "all" ]
+}

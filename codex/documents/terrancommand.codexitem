@@ -1,0 +1,9 @@
+{
+  "codexId" : "terrancommand",
+  "title" : "Terran Command Mission",
+  "codexkind" : "codex",
+  "itemName" : "terrancommandCodex",
+  "rarity" : "common",
+  "description" : "About Terran Command",
+  "shortdescription" : "Terran Command"
+}
