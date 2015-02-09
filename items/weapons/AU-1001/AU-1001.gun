@@ -10,20 +10,21 @@
   "inspectionKind" : "gun",
   "image" : "AU-1001.png",
   "recoilTime" : 0.25,
-  "handPosition" : [-9.5, -3],
+  "handPosition" : [-5.5, -3],
   "firePosition" : [22, 1.5],
+  "accuracy" : 100,
   
-  "fireTime" : 0.10,
+  "fireTime" : 1,
   "twoHanded" : true,
 
   "projectileType" : "x3rail",
   "projectile" : { 
-    "speed" : 500,
-    "power" : 12,
+    "speed" : 1000,
+    "power" : 10,
     "color" : [10, 255, 10]
   },
 
   "muzzleEffect" : {
-     "fireSound" : [ { "file" : "/sfx/AUGBoom.wav" } ]
+     "fireSound" : [ { "file" : "/sfx/gun/plasma_sniper3.wav" } ]
   }
 }
