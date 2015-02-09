@@ -1,5 +1,5 @@
 # Terran
-Changelog
+**Changelog**
 
 **0.9.1 [Upbeat Giraffe]**
 
