@@ -1,26 +1,26 @@
 # Terran
 
-**FEATURES**
+## FEATURES
 It's basically a copied human race with some modifications, taken from the Apex.
 I think I've added enough custom content to not call it a "copy" anymore. Though, the Apex uniforms and Ship are here to stay, because I really do like them. and that was original intent with this mod.
 
 But I will continue to work on this and add more custom content. One step at a time.
 So stay tuned for more Terran Command goodies!
-+Apex slightly modified starter ship Custom Terran Command starter ship First three tiers are Apex, rest is human. Soon to be modified with Apex ship details.
-+Apex uniforms
-+Tutorial quest
-+Custom Terran Command sign
-+Custom crafting table called, Quantum Relay Supply System (QRSS for short)
-+MRE (Meal Ready to Eat), can be crafted with any edible food and one fabric (Kinda obsolete now, I think. Haven't tested.)
-+Custom Terran lore available In-Game from the start
-+Custom hairs, credits to @TimeCraked and @Dragonith
-+Custom Apex HDTV, a non-animated object turned into an animated object.
+* Apex slightly modified starter ship Custom Terran Command starter ship First three tiers are Apex, rest is human. Soon to be modified with Apex ship details.
+* Apex uniforms
+* Tutorial quest
+* Custom Terran Command sign
+* Custom crafting table called, Quantum Relay Supply System (QRSS for short)
+* MRE (Meal Ready to Eat), can be crafted with any edible food and one fabric (Kinda obsolete now, I think. Haven't tested.)
+* Custom Terran lore available In-Game from the start
+* Custom hairs, credits to @TimeCraked and @Dragonith
+* Custom Apex HDTV, a non-animated object turned into an animated object.
 
-*Planned-Features*
-+Apex villages with human/terran look and NPC's. (I.E. Friendly human settlements, tired of the USCM bases and Penal colonies with only hostiles. Why would the only humans left in the galaxy be all hostiles?)
+**Planned-Features**
+* Apex villages with human/terran look and NPC's. (I.E. Friendly human settlements, tired of the USCM bases and Penal colonies with only hostiles. Why would the only humans left in the galaxy be all hostiles?)
 Codex with more lore/background info. (Feel free to post suggestions.)
 
-**CODEX**
+## CODEX
 If anyone wants to submit Codex stories, feel free to do so. Either in a thread here, or via a PM if you wish to keep it private, for players discover them In-Game.
 
 The Codex entry can be anything you'd want, somehow related to Terran.
@@ -28,21 +28,22 @@ The Codex entry can be anything you'd want, somehow related to Terran.
 Maybe a Captain log or a diary for your Terran character? Or an event in Terran history?
 Some story from another Terran colony? Anything you'd like.
 
-*Collaborators*
-+Norway174 (A Terran Introduction, Terran Command & Terra Nova)
+**Collaborators**
+* Norway174 (A Terran Introduction, Terran Command & Terra Nova)
 
-**HELP WANTED!**
-I recently posted this post about the Railgun I was working on.
+## HELP WANTED!
+I'm currently looking for pixel art, that would fit with the Terran theme.
 
-If you know any pixel art, or have any stored I could use.
-I'd be very grateful.
+A short list of what I would need the most:
 
-Just remember I'm trying to go for a very specific theme.
+1. More weapons (Pistols, machine gun, rifle, shotgun, other.)
+1. Exo-skeleton (From Edge of Tomorrow or Advanced Warfare. I've already started working on this. But it sucks. :p )
+1. (back) Flashlight (Because lantern-on-a-stick isn't sci-fi enough. Been planning this for a while. Not sure what to make it yet. Maybe something like the health bar from Dead Space? But that would only be backside visible. Or a glow stick over your shoulder?)
+1. Ships. More ships. (Already started on a space station where the player will spawn on. I'm still missing all the different ship classes. See earlier post about [different ship classes](http://community.playstarbound.com/index.php?threads/terran.86030/page-4#post-2410690).)
 
 
-**End words**
+## End words
 I know this isn't really the most feature rich race mod. And I never intended it to be.
-And I basically didn't make anything in it. As far as spriting goes. (Except for slightly modifying the starter ship)
 
 So I made this because I dislike how the human race is portrayed in the game. The only humans I have ever met are all hostiles. (Bandits, prison & bunker)
 
@@ -54,7 +55,7 @@ Though, I originally made it for my own personal use. With my own vision and ide
 
 Great for military styled RP characters. As I envision Terran Command as the military to the Terrans.
 
-**Changelog**
+## Changelog
 
 **0.9.1 [Upbeat Giraffe]**
 
