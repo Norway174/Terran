@@ -1,7 +1,7 @@
 # Terran
-0.9.1 [Upbeat Giraffe]
+Changelog
 
-**Changelog:**
+**0.9.1 [Upbeat Giraffe]**
 
 + Added a new Spacestaion as Tier0-Tier5 ship.
 + Added a selectable ship system. For now you can only select between; Apex, Floran, Glitch, Hylotl. Planned to make custom Terran ships in the future.
