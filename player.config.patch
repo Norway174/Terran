@@ -5,7 +5,8 @@
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "terrantrooperhead" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "terrantrooperpants" } },
   
-  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "AU-1001" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "au1001" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "peg" } },
   
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "terransign" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "exoskeleton" } },
