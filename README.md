@@ -30,6 +30,7 @@ Some story from another Terran colony? Anything you'd like.
 
 **Collaborators**
 * Norway174 (A Terran Introduction, Terran Command & Terra Nova)
+* Admon_420 (AU-1001 EM)
 
 ## HELP WANTED!
 I'm currently looking for pixel art, that would fit with the Terran theme.
