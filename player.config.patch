@@ -6,6 +6,10 @@
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "terrantrooperpants" } },
   
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "au1001" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "AU-9" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "AU-223" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "AU-9s" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "AU-57" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "peg" } },
   
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "terransign" } },

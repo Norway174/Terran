@@ -1,0 +1,30 @@
+{
+  "itemName" : "AU-223",
+  "inventoryIcon" : "au223.png",
+  "shortdescription" : "AU-223 Assault Rifle",
+  "description" : "The AU-223, a well made, piston driven rifle in .223 match caliber.",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "level" : 1,
+  "rarity" : "Rare",
+  "inspectionKind" : "gun",
+  "image" : "au223.png",
+  "recoilTime" : 0.05,
+  "handPosition" : [-5.5, -3],
+  "firePosition" : [22, 0],
+  "accuracy" : 100,
+  
+  "fireTime" : 0.09,
+  "twoHanded" : true,
+
+  "projectileType" : "bullet-4",
+  "projectile" : {
+		"power" : 3,
+		"speed" : 75,
+    "color" : [10, 255, 10]
+  },
+
+  "muzzleEffect" : {
+     "fireSound" : [ { "file" : "/sfx/au223.wav" } ]
+  }
+}

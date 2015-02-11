@@ -1,0 +1,30 @@
+{
+  "itemName" : "AU-9",
+  "inventoryIcon" : "AU-9.png",
+  "shortdescription" : "AU-9",
+  "description" : "Entry level pistol by Admonitions Unlimited. 9x19mm",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "level" : 8,
+  "rarity" : "Rare",
+  "inspectionKind" : "gun",
+  "image" : "AU-9.png",
+  "recoilTime" : 0.10,
+  "handPosition" : [0, -1.5],
+  "firePosition" : [10, 2],
+  "classMultiplier" : 1.2,
+
+  "fireTime" : 0.3,
+  "twoHanded" : false,
+
+  "projectileType" : "bullet-4",
+  "projectile" : {
+		"power" : 1,
+		"speed" : 75,
+    "color" : [10, 255, 10]
+  },
+
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/au9.wav" } ]
+  }
+}
