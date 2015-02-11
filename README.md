@@ -58,6 +58,8 @@ Great for military styled RP characters. As I envision Terran Command as the mil
 
 ## Changelog
 
+**0.9.3 [Upbeat Giraffe]**
+
 **0.9.2 [Upbeat Giraffe]**
 
 + Added PEG (Portable Energy Generator), gives an energy boost of 100.
