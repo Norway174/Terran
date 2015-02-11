@@ -64,6 +64,7 @@ Great for military styled RP characters. As I envision Terran Command as the mil
 + Buffed the AU-1001, can now fire 2 shots before completely draining energy.
 + Fixed the MRE instead of removing them. (As by request.)
 + Started work on adding AU-1001 Operation Manual Codex but then realized the lore behind it was too long. Each segment should be about 400 characters long. 450 max.
++ Added 2 pistols and 1 rifle from Admon420.
 
 **0.9.1 [Upbeat Giraffe]**
 
