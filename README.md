@@ -63,6 +63,7 @@ Great for military styled RP characters. As I envision Terran Command as the mil
 + Added PEG (Portable Energy Generator), gives an energy boost of 100.
 + Buffed the AU-1001, can now fire 2 shots before completely draining energy.
 + Fixed the MRE instead of removing them. (As by request.)
++ Started work on adding AU-1001 Operation Manual Codex but then realized the lore behind it was too long. Each segment should be about 400 characters long. 450 max.
 
 **0.9.1 [Upbeat Giraffe]**
 

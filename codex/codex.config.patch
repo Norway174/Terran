@@ -1,6 +1,6 @@
 [
 	{ "op" : "add",
 		"path" : "/initialcodex/terran",
-		"value" : [ "controls", "terrancommand", "terranorigins", "terranova", "survivalguide" ]
+		"value" : [ "controls", "terrancommand", "terranorigins", "terranova", "survivalguide", "au1001op" ]
 	}
 ]

@@ -1,0 +1,13 @@
+{
+  "id" : "au1001op",
+  "title" : "AU-1001 Operation Manual",
+  "contentPages" : [
+
+    "The AU-1001 EM Rifle has two operating modes, standard and overcharge. In standard mode, the average velocity of the projectile is around 2000 fps, not much faster than a standard rifle. In standard mode, the AU-1001 EMR can use either the internal carbon foam capacitor* hybrid battery, or tap into standard wireless energy in the civilized parts of the galaxy, able to adapt to any frequency ensuring intergalactic compatibility. In parts of the galaxy that do not have standard wireless energy.",
+	
+	"The internal carbon foam battery can last for 1000 rounds, long enough to ensure one can get to a recharging station without running out of ammo. Even in the case of a depleted battery, they can quickly be replaced by turning the vertical foregrip and pulling down, exposing both the battery chamber and the ammo reserve. Ammunition for the AU-1001 is a proprietary superconducting metal that is in the form of a rectangular prism that is cut into smaller pieces inside the rifle with a shearing mechanism* powered by the magnetic back flux caused when the projectile passes the halfway point of the rails. In overcharge mode, every capacitor is emptied at the same time to achieve a velocity of 5000 fps, powerful enough to destroy enemy vehicles, but the sudden discharge of every capacitor leaves the user vulnerable for a minute while they recharge to a minimum of 63%.",
+
+    "The AU-1001 comes standard with a holographic sight that can bend the light passing through allowing it to reach a magnification between 1x to a maximum of 7x. Standard wireless communications allows the operator to send data about the AU EMR to their HUD, data such as temperature, capacitor state, battery state, magnification, target distance, IFF, and ammo count. Diagnostics can be ran wirelessly and in the case of a mechanical malfunction of the ammo feeder, the operator can pull out a handle that manually shaves off ammo to be fed into the rail system, the rail system itself being incredibly reliable due to the lack of moving parts and a proprietary insulation system that quickly pulls heat out of the rails without burning the operator. The exact makings of this insulation is a closely guarded company secret."
+
+  ]
+}
