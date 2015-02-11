@@ -5,9 +5,16 @@
   "description" : "Meal ready to eat. Mmm... Smells delicious.",
   "shortdescription" : "MRE",
   "effects" : [ [
-      {
-        "kind" : "food",
-        "amount" : 70
-      }
-    ] ]
+    {
+        "effect" : "foodheal95",
+        "duration" : 120
+    },
+    {
+        "effect" : "wellfed",
+        "duration" : 180
+    }
+  ] ],
+  "blockingEffects" : [
+    "wellfed"
+  ]
 }

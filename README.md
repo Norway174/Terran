@@ -57,6 +57,12 @@ Great for military styled RP characters. As I envision Terran Command as the mil
 
 ## Changelog
 
+**0.9.2 [Upbeat Giraffe]**
+
++ Added PEG (Portable Energy Generator), gives an energy boost of 100.
++ Buffed the AU-1001, can now fire 2 shots before completely draining energy.
++ Fixed the MRE instead of removing them. (As by request.)
+
 **0.9.1 [Upbeat Giraffe]**
 
 + Added a new Spacestaion as Tier0-Tier5 ship.
